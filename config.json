@@ -1,0 +1,9 @@
+{
+  "maxThreads": 5,
+  "threadStaggerDelay": 10,
+  "actionDelayMin": 3,
+  "actionDelayMax": 7,
+  "switchDelayMin": 30,
+  "switchDelayMax": 60,
+  "apiKey": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InBvdXRob2JtcXZmYm5ueXlhbWt0Iiwicm9sZSI6ImFub24iLCJpYXQiOjE3NzUxOTU4ODcsImV4cCI6MjA5MDc3MTg4N30.MyqPl2IKQjDw3Tjf8m9T-0-NbD0GcGjRmSjWFLPyC30"
+}
